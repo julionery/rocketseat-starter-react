@@ -1,6 +1,4 @@
-<h1 align="center">
-  Curso Starter de React
-</h1>
+# (Rocketseat) Curso Starter de React
 
 Projeto do Curso Starter de React da [Rocketseat](https://rocketseat.com.br/ "Rocketseat").
 
